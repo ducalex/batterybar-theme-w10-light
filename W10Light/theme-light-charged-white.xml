@@ -8,11 +8,6 @@
 	<States>
 
 		<Default>
-			<Font>
-				<Name>Segoe UI</Name>
-				<Size>10</Size>
-				<Style>Regular</Style>
-			</Font>
 			<TextColor>0,0,0</TextColor>
 			<TextShadow>False</TextShadow>
 			<Padding>2,4,4,2</Padding>
@@ -35,11 +30,6 @@
 		</Default>
 
 		<Discharging>
-			<Font>
-				<Name>Segoe UI</Name>
-				<Size>10</Size>
-				<Style>Regular</Style>
-			</Font>
 			<TextColor>255,255,255</TextColor>
 			<TextShadow>False</TextShadow>
 			<Padding>2,4,4,2</Padding>
@@ -66,11 +56,6 @@
 		</Discharging>
 
 		<LowBattery>
-			<Font>
-				<Name>Segoe UI</Name>
-				<Size>10</Size>
-				<Style>Regular</Style>
-			</Font>
 			<TextColor>255,255,255</TextColor>
 			<TextShadow>False</TextShadow>
 			<Padding>2,4,4,2</Padding>
@@ -97,11 +82,6 @@
 		</LowBattery>
 
 		<CriticalBattery>
-			<Font>
-				<Name>Segoe UI</Name>
-				<Size>10</Size>
-				<Style>Regular</Style>
-			</Font>
 			<TextColor>255,255,255</TextColor>
 			<TextShadow>False</TextShadow>
 			<Padding>2,4,4,2</Padding>
@@ -128,11 +108,6 @@
 		</CriticalBattery>
 
 		<Charging>
-			<Font>
-				<Name>Segoe UI</Name>
-				<Size>10</Size>
-				<Style>Regular</Style>
-			</Font>
 			<TextColor>255,255,255</TextColor>
 			<TextShadow>False</TextShadow>
 			<Padding>2,4,4,2</Padding>

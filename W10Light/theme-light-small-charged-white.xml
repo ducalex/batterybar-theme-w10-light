@@ -4,18 +4,13 @@
 	<Description>Windows 10 like battery theme</Description>
 	<Name>W10 Light Small (Charged White)</Name>
 	<Version>1.0</Version>
-	<MaxHeight>20</MaxHeight>
+	<MaxHeight>18</MaxHeight>
 	<States>
 
 		<Default>
-			<Font>
-				<Name>Segoe UI</Name>
-				<Size>10</Size>
-				<Style>Regular</Style>
-			</Font>
 			<TextColor>0,0,0</TextColor>
 			<TextShadow>False</TextShadow>
-			<Padding>2,4,4,2</Padding>
+			<Padding>1,1,2,1</Padding>
 			<Background>
 				<CornerTopLeft>Background\topleft.png</CornerTopLeft>
 				<CornerTopRight>Background\topright.png</CornerTopRight>
@@ -35,14 +30,9 @@
 		</Default>
 
 		<Discharging>
-			<Font>
-				<Name>Segoe UI</Name>
-				<Size>10</Size>
-				<Style>Regular</Style>
-			</Font>
 			<TextColor>255,255,255</TextColor>
 			<TextShadow>False</TextShadow>
-			<Padding>2,4,4,2</Padding>
+			<Padding>1,1,2,1</Padding>
 			<Background>
 				<CornerTopLeft>Background\topleft.png</CornerTopLeft>
 				<CornerTopRight>Background\topright.png</CornerTopRight>
@@ -66,14 +56,9 @@
 		</Discharging>
 
 		<LowBattery>
-			<Font>
-				<Name>Segoe UI</Name>
-				<Size>10</Size>
-				<Style>Regular</Style>
-			</Font>
 			<TextColor>255,255,255</TextColor>
 			<TextShadow>False</TextShadow>
-			<Padding>2,4,4,2</Padding>
+			<Padding>1,1,2,1</Padding>
 			<Background>
 				<CornerTopLeft>Background\topleft.png</CornerTopLeft>
 				<CornerTopRight>Background\topright.png</CornerTopRight>
@@ -97,14 +82,9 @@
 		</LowBattery>
 
 		<CriticalBattery>
-			<Font>
-				<Name>Segoe UI</Name>
-				<Size>10</Size>
-				<Style>Regular</Style>
-			</Font>
 			<TextColor>255,255,255</TextColor>
 			<TextShadow>False</TextShadow>
-			<Padding>2,4,4,2</Padding>
+			<Padding>1,1,2,1</Padding>
 			<Background>
 				<CornerTopLeft>Background\topleft.png</CornerTopLeft>
 				<CornerTopRight>Background\topright.png</CornerTopRight>
@@ -128,14 +108,9 @@
 		</CriticalBattery>
 
 		<Charging>
-			<Font>
-				<Name>Segoe UI</Name>
-				<Size>10</Size>
-				<Style>Regular</Style>
-			</Font>
 			<TextColor>255,255,255</TextColor>
 			<TextShadow>False</TextShadow>
-			<Padding>2,4,4,2</Padding>
+			<Padding>1,1,2,1</Padding>
 			<Background>
 				<CornerTopLeft>Background\topleft.png</CornerTopLeft>
 				<CornerTopRight>Background\topright.png</CornerTopRight>
